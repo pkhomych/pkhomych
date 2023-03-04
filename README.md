@@ -20,16 +20,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=600&duration=3000&pause=500&color=26CD4D&background=FFFFFF00&center=true&vCenter=true&width=540&height=60&lines=Hi!+My+name's+Pavlo+Khomych;I'm+a+proactive+QA+Engineer;I'm+very+glad+to+see+you+on+ma+GitHup+page+%3A)" alt="Typing SVG" /></a>
 </div>
 
-<div id="badges" align="center">
 <p><span>&#128373;</span> Disciplined, goal-oriented and attentive to details person with experience working in a team. I have experience in commercial projects where I tested web desktop, web mobile and native mobile applications. I am able to learn quickly, often under tight deadlines, to fully understand a new product or platform. I also have excellent problem solving skills and am always improving.
-</div>
 
 <br>
-
-<!-- <div id="badges" style="text-align: center;">
-  <div id="badges" style="text-align: left; display: inline-block;"> -->
-
-<div id="badges" align="center; display: inline-block;>
 
 ## <img src = "https://cdn-icons-png.flaticon.com/512/9166/9166953.png"  width="25" height="25"> Soft skills: 
 &#9989; Orginize <br>
@@ -41,37 +34,11 @@
 &#9989; Critical Thinking <br>
 &#9989; Attention to Detail <br>
 &#9989; Excellent Communication <br>
-  </div>
-</div>
-
+  
 <br>
-
-## <img src = "https://cdn-icons-png.flaticon.com/512/9166/9166953.png"  width="25" height="25"> Soft skills: 
-
-<div id="badges" style="text-align: center;">
-  <div id="badges" style="text-align: left; display: inline-block;">
-    <ul>
-      <li>Orginize</li>
-      <li>Adaptable</li>
-      <li>Discipline</li>
-      <li>Team Player</li>
-      <li>Prioritization</li>
-      <li>Problem Solving</li>
-      <li>Critical Thinking</li>
-      <li>Attention to Detail</li>
-      <li>Excellent Communication</li>
-    </ul>
-  </div>
-</div>
-
-<br>
-
-<div id="badges" align="center">
 
 ## <img src = "https://cdn-icons-png.flaticon.com/512/1205/1205514.png" width="25" height="25" /> Hard skills & Tools:
-</div>
 
-  <div id="badges" align="center">
   <a href="https://github.com/pkhomych?tab=repositories">
     <img src="https://cdn-icons-png.flaticon.com/512/4926/4926624.png" title="Git" alt="Git" width="50" height="50"/></a>  
   </a>
