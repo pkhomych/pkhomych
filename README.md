@@ -46,6 +46,26 @@
 
 <br>
 
+## <img src = "https://cdn-icons-png.flaticon.com/512/9166/9166953.png"  width="25" height="25"> Soft skills: 
+
+<div style="text-align: center;">
+  <div style="text-align: left; display: inline-block;">
+    <ul>
+      <li>Orginize</li>
+      <li>Adaptable</li>
+      <li>Discipline</li>
+      <li>Team Player</li>
+      <li>Prioritization</li>
+      <li>Problem Solving</li>
+      <li>Critical Thinking</li>
+      <li>Attention to Detail</li>
+      <li>Excellent Communication</li>
+    </ul>
+  </div>
+</div>
+
+<br>
+
 <div id="badges" align="center">
 
 ## <img src = "https://cdn-icons-png.flaticon.com/512/1205/1205514.png" width="25" height="25" /> Hard skills & Tools:
