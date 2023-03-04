@@ -30,9 +30,6 @@
   <div id="badges" style="text-align: left; display: inline-block;">
 
 ## <img src = "https://cdn-icons-png.flaticon.com/512/9166/9166953.png"  width="25" height="25"> Soft skills: 
-  </div>
-</div>
-
 &#9989; Orginize <br>
 &#9989; Adaptable <br>
 &#9989; Discipline <br>
