@@ -48,8 +48,8 @@
 
 ## <img src = "https://cdn-icons-png.flaticon.com/512/9166/9166953.png"  width="25" height="25"> Soft skills: 
 
-<div style="text-align: center;">
-  <div style="text-align: left; display: inline-block;">
+<div id="badges" style="text-align: center;">
+  <div id="badges" style="text-align: left; display: inline-block;">
     <ul>
       <li>Orginize</li>
       <li>Adaptable</li>
