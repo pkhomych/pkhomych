@@ -47,7 +47,7 @@
     <img src="https://github.com/pkhomych/pkhomych/blob/master/images/GitHub.png" title="GitHub" alt="GitHub" width="50" height="50"/>
   </a>
   <a href="https://github.com/pkhomych/JSON/blob/master/HW_JSON.md">
-    <img src="https://github.com/pkhomych/pkhomych/blob/master/images/git-bash.svg" title="GitBash" alt="GitBash" width="50" height="50"/>
+    <img src="https://github.com/pkhomych/pkhomych/blob/master/images/Git_Bash.svg" title="GitBash" alt="GitBash" width="50" height="50"/>
   </a>
   <a href="https://github.com/pkhomych/Branches">
     <img src="https://github.com/pkhomych/pkhomych/blob/master/images/Git_branches.png" title="Git Branches" alt="Git Branches" width="50" height="50"/>
@@ -63,6 +63,9 @@
   </a>
   <a href="">
     <img src="https://github.com/pkhomych/pkhomych/blob/master/images/android_studio.png" title="Android Studio" alt="Android Studio" width="50" height="50"/>
+  </a>
+  <a href="">
+    <img src="https://github.com/pkhomych/pkhomych/blob/master/images/VS_Code.png" title="VS Code" alt="VS Code" width="50" height="50"/>
   </a>
   <a href="">
     <img src="https://github.com/pkhomych/pkhomych/blob/master/images/JIRA.png" title="Jira" alt="Jira" width="50" height="50"/>
