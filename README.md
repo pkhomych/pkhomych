@@ -68,7 +68,7 @@
     <img src="https://github.com/pkhomych/pkhomych/blob/master/images/JIRA.png" title="Jira" alt="Jira" width="50" height="50"/>
   </a>
   <a href="">
-    <img src="https://media.gurock.com/gk-media/logos TestRail%20Logo%20Square.svg" title="TestRail" alt="TestRail" width="50" height="50"/>
+    <img src="https://github.com/pkhomych/pkhomych/blob/master/images/TestRai.svg" title="TestRail" alt="TestRail" width="50" height="50"/>
   </a>
 
   <h5>These icons are clickable.</h5>
