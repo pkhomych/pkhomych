@@ -37,51 +37,32 @@
   
 <br>
 
-## <img src = "https://cdn-icons-png.flaticon.com/512/1205/1205514.png" width="25" height="25" /> Hard skills & Tools:
+## <img src = "https://github.com/pkhomych/pkhomych/blob/master/images/Hard_Skills.png" width="25" height="25" /> Hard skills & Tools:
 
   <a href="https://github.com/pkhomych?tab=repositories">
-    <img src="https://cdn-icons-png.flaticon.com/512/4926/4926624.png" title="Git" alt="Git" width="50" height="50"/></a>  
+    <img src="https://github.com/pkhomych/pkhomych/blob/master/images/GitHub.png" title="GitHub" alt="GitHub" width="50" height="50"/>
   </a>
-  <!-- <a href="https://github.com/NadiDU/Charles">
-    <img src="https://github.com/NadiDU/NadiDU/blob/main/Charles_proxy.png?raw=true" title="Charles_proxy" alt="Charles_proxy" width="50" height="50"/></a>  -->
-  </a>
-  <!-- Фотку постмана закінуть на гітбхаб і в код -->
-  <a href="https://github.com/pkhomych/Postman">
-    <img src="https://github.com/NadiDU/NadiDU/blob/main/Postman.png?raw=true" alt="Postman" width="50" height="50"/></a>
-  </a>
-  <!-- <a href="https://github.com/NadiDU/JavaScript">
-    <img src="https://github.com/NadiDU/NadiDU/blob/main/javascript.png?raw=true" title="JavaScript" alt="JavaScript" width="50" height="50"/>
-  </a> -->
-  <!-- <a href="https://github.com/NadiDU/DevTools"> -->
-    <img src="https://github.com/NadiDU/NadiDU/blob/main/chrome_dev_browser.png?raw=true" title="Chrome-DevTools" alt="Chrome-DevTools" width="50" height="50"/>
-  </a>
-    <a href="https://github.com/pkhomych/SQL">
-    <img src="https://cdn-icons-png.flaticon.com/512/5815/5815478.png" title="SQL" alt="SQL" width="50" height="50"/>
+  <a href="https://github.com/pkhomych/JSON/blob/master/HW_JSON.md">
+    <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" title="GitBash" alt="GitBash" width="50" height="50"/>
   </a>
   <a href="https://github.com/pkhomych/Branches">
     <img src="https://cdn-icons-png.flaticon.com/512/8695/8695385.png" title="Git_branch" alt="Git_branch" width="50" height="50"/>
   </a>
-  <!-- Фотку запушить на гітхаб і помінять в коді -->
-  <!-- <a href="https://github.com/NadiDU/Mobile-testing"> -->
-    <img src="https://github.com/NadiDU/NadiDU/blob/main/android_studio.png?raw=true" title="Android_studio" alt="Android_studio" width="50" height="50"/>
-  <!-- </a>
-   </a>
-  <a href="https://github.com/NadiDU/JavaScript">
-    <img src="https://github.com/NadiDU/NadiDU/blob/main/vscode.png?raw=true" title="Android_studio" alt="Android_studio" width="50" height="50"/>
+  <a href="https://github.com/pkhomych/SQL">
+    <img src="https://github.com/pkhomych/pkhomych/blob/master/images/SQL.png" title="SQL" alt="SQL" width="50" height="50"/>
   </a>
- <a href="https://github.com/NadiDU/SQL">
-    <img src="https://github.com/NadiDU/NadiDU/blob/main/DBeaver.png?raw=true" alt="Android_studio" width="50" height="50"/>
+  <a href="https://github.com/pkhomych/Postman">
+    <img src="https://github.com/pkhomych/pkhomych/blob/master/images/Postman.png" title="Postman" alt="Postman" width="50" height="50"/>
   </a>
-  <a href=" ">
-    <img src="https://github.com/NadiDU/NadiDU/blob/main/JIRA.png?raw=true" alt="Android_studio" width="50" height="50"/>
+  <a href="">
+    <img src="https://github.com/NadiDU/NadiDU/blob/main/chrome_dev_browser.png?raw=true" title="Chrome-DevTools" alt="Chrome-DevTools" width="50" height="50"/>
   </a>
-   <a href=" ">
-    <img src="https://github.com/NadiDU/NadiDU/blob/main/jmeter.png?raw=true" width="50" height="50"/>
+  <a href="">
+    <img src="https://github.com/pkhomych/pkhomych/blob/master/images/android_studio.png" title="Android_studio" alt="Android_studio" width="50" height="50"/>
   </a>
-   <a href=" ">
-    <img src="https://github.com/NadiDU/NadiDU/blob/main/json.png?raw=true" width="50" height="50"/>
+  <a href="">
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" title="Jira" alt="Jira" width="50" height="50"/>
   </a>
-      
+  
   <h5>These icons are clickable.</h5>
 </div> 
-
