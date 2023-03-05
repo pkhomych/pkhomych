@@ -52,6 +52,9 @@
   <a href="https://github.com/pkhomych/Branches">
     <img src="https://github.com/pkhomych/pkhomych/blob/master/images/Git_branches.png" title="Git Branches" alt="Git Branches" width="50" height="50"/>
   </a>
+  <a href="https://github.com/pkhomych/Terminal/blob/master/HW_1.md">
+    <img src="https://github.com/pkhomych/pkhomych/blob/master/images/Terminal.png" title="Terminal" alt="Terminal" width="50" height="50"/>
+  </a>
   <a href="https://github.com/pkhomych/SQL">
     <img src="https://github.com/pkhomych/pkhomych/blob/master/images/SQL.png" title="SQL" alt="SQL" width="50" height="50"/>
   </a>
