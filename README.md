@@ -19,7 +19,7 @@
 
 </div>
 <div id="badges" align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=600&duration=3000&pause=500&color=26CD4D&background=FFFFFF00&center=true&vCenter=true&width=540&height=60&lines=Hi!+My+name's+Pavlo+Khomych;I'm+a+proactive+QA+Engineer;I'm+very+glad+to+see+you+on+ma+GitHup+page+%3A)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=600&duration=3000&pause=500&color=26CD4D&background=FFFFFF00&center=true&vCenter=true&width=540&height=60&lines=Hi!+My+name's+Pavlo+Khomych;I'm+a+proactive+QA+Engineer;I'm+very+glad+to+see+you+on+my+GitHup+page+%3A)" alt="Typing SVG" /></a>
 </div>
 
 <div id="badges" align="center">
@@ -36,7 +36,7 @@
 &#9989; Prioritization <br>
 &#9989; Problem Solving <br>
 &#9989; Critical Thinking <br>
-&#9989; Attention to Detail <br>
+&#9989; Attention to Details <br>
 &#9989; Excellent Communication <br>
   
 <br>
