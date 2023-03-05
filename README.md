@@ -28,7 +28,7 @@
 
 <br>
 
-## <img src = "https://github.com/pkhomych/pkhomych/blob/master/images/Soft_Skills.png"  width="25" height="25"> Soft skills: 
+## <img src = "https://github.com/pkhomych/pkhomych/blob/master/images/Soft_Skills.png"  width="30" height="30"> Soft skills: 
 &#9989; Orginize <br>
 &#9989; Adaptable <br>
 &#9989; Discipline <br>
@@ -41,7 +41,7 @@
   
 <br>
 
-## <img src = "https://github.com/pkhomych/pkhomych/blob/master/images/Hard_Skills.png" width="25" height="25" /> Hard skills & Tools:
+## <img src = "https://github.com/pkhomych/pkhomych/blob/master/images/Hard_Skills.png" width="30" height="30" /> Hard skills & Tools:
 
   <a href="https://github.com/pkhomych?tab=repositories">
     <img src="https://github.com/pkhomych/pkhomych/blob/master/images/GitHub.png" title="GitHub" alt="GitHub" width="50" height="50"/>
@@ -50,7 +50,7 @@
     <img src="https://github.com/pkhomych/pkhomych/blob/master/images/git-bash.svg" title="GitBash" alt="GitBash" width="50" height="50"/>
   </a>
   <a href="https://github.com/pkhomych/Branches">
-    <img src="https://cdn-icons-png.flaticon.com/512/8695/8695385.png" title="Git_branches" alt="Git_branches" width="50" height="50"/>
+    <img src="https://github.com/pkhomych/pkhomych/blob/master/images/Git_branches.png" title="Git Branches" alt="Git Branches" width="50" height="50"/>
   </a>
   <a href="https://github.com/pkhomych/SQL">
     <img src="https://github.com/pkhomych/pkhomych/blob/master/images/SQL.png" title="SQL" alt="SQL" width="50" height="50"/>
@@ -59,10 +59,10 @@
     <img src="https://github.com/pkhomych/pkhomych/blob/master/images/Postman.png" title="Postman" alt="Postman" width="50" height="50"/>
   </a>
   <a href="">
-    <img src="https://github.com/pkhomych/pkhomych/blob/master/images/Chrome_DevTools.png" title="Chrome-DevTools" alt="Chrome-DevTools" width="50" height="50"/>
+    <img src="https://github.com/pkhomych/pkhomych/blob/master/images/Chrome_DevTools.png" title="Chrome DevTools" alt="Chrome-DevTools" width="50" height="50"/>
   </a>
   <a href="">
-    <img src="https://github.com/pkhomych/pkhomych/blob/master/images/android_studio.png" title="Android_studio" alt="Android_studio" width="50" height="50"/>
+    <img src="https://github.com/pkhomych/pkhomych/blob/master/images/android_studio.png" title="Android Studio" alt="Android Studio" width="50" height="50"/>
   </a>
   <a href="">
     <img src="https://github.com/pkhomych/pkhomych/blob/master/images/JIRA.png" title="Jira" alt="Jira" width="50" height="50"/>
@@ -70,6 +70,3 @@
   <a href="">
     <img src="https://github.com/pkhomych/pkhomych/blob/master/images/TestRai.svg" title="TestRail" alt="TestRail" width="50" height="50"/>
   </a>
-
-  <h5>These icons are clickable.</h5>
-</div> 
