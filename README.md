@@ -71,5 +71,5 @@
     <img src="https://github.com/pkhomych/pkhomych/blob/master/images/JIRA.png" title="Jira" alt="Jira" width="50" height="50"/>
   </a>
   <a href="">
-    <img src="https://github.com/pkhomych/pkhomych/blob/master/images/TestRai.svg" title="TestRail" alt="TestRail" width="50" height="50"/>
+    <img src="https://github.com/pkhomych/pkhomych/blob/master/images/TestRail.svg" title="TestRail" alt="TestRail" width="50" height="50"/>
   </a>
