@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/yp_aFUgHMx8AAAAC/nakanoart-nakanodrawing.gif" width="360"/>
+  <img src="https://media.tenor.com/yp_aFUgHMx8AAAAC/nakanoart-nakanodrawing.gif" width="362"/>
 </div>
 
 <div id="badges" align="center">
