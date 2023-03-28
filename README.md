@@ -12,7 +12,7 @@
    <a href="mailto:khomich.pavlo@gmail.com">
     <img src="https://img.shields.io/badge/eMail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
-  <a href="https://drive.google.com/file/d1QWigMmkeyEesviztqIediVpCD27nd8hU/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1QWigMmkeyEesviztqIediVpCD27nd8hU/view?usp=sharing">
     <img src="https://img.shields.io/badge/CV-blue?style=for-the-badge&logo=CV&logoColor=white" alt="CV Badge"/>
   </a>
 
