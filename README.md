@@ -12,13 +12,13 @@
    <a href="mailto:khomich.pavlo@gmail.com">
     <img src="https://img.shields.io/badge/eMail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
-  <a href="https://drive.google.com/file/d/1QWigMmkeyEesviztqIediVpCD27nd8hU/view?usp=sharing">
+  <a href="https://drive.google.com/file/d1QWigMmkeyEesviztqIediVpCD27nd8hU/view?usp=sharing">
     <img src="https://img.shields.io/badge/CV-blue?style=for-the-badge&logo=CV&logoColor=white" alt="CV Badge"/>
   </a>
 
 </div>
 <div id="badges" align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=600&duration=3000&pause=500&color=26CD4D&background=FFFFFF00&center=true&vCenter=true&width=540&height=60&lines=Hi!+My+name's+Pavlo+Khomych;I'm+a+proactive+QA+Engineer;I'm+very+glad+to+see+you+on+my+GitHup+page+%3A)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=600&duration=3000&pause=500&color=26CD4D&background=FFFFFF00&center=true&vCenter=true&width=540&height=60&lines=Hi!+My+name's+Pavlo+Khomych;I'm+a+proactive+QA+Engineer;I'm+very+glad+to+see+you+on+my+GitHub+page+%3A)" alt="Typing SVG" /></a>
 </div>
 
 <div id="badges" align="center">
@@ -45,13 +45,13 @@
   <a href="https://github.com/pkhomych?tab=repositories">
     <img src="https://github.com/pkhomych/pkhomych/blob/master/images/GitHub.png" title="GitHub" alt="GitHub" width="50" height="50"/>
   </a>
-  <a href="https://github.com/pkhomych/JSON/blob/master/HW_JSON.md">
+  <a href="https://github.com/pkhomych/GitBash">
     <img src="https://github.com/pkhomych/pkhomych/blob/master/images/Git_Bash.svg" title="GitBash" alt="GitBash" width="50" height="50"/>
   </a>
   <a href="https://github.com/pkhomych/Branches">
     <img src="https://github.com/pkhomych/pkhomych/blob/master/images/Git_branches.png" title="Git Branches" alt="Git Branches" width="50" height="50"/>
   </a>
-  <a href="https://github.com/pkhomych/Terminal/blob/master/HW_1.md">
+  <a href="https://github.com/pkhomych/Terminal">
     <img src="https://github.com/pkhomych/pkhomych/blob/master/images/Terminal.png" title="Terminal" alt="Terminal" width="50" height="50"/>
   </a>
   <a href="https://github.com/pkhomych/PostgreSQL">
