@@ -56,7 +56,7 @@
     <img src="https://github.com/pkhomych/pkhomych/blob/master/images/Terminal.png" title="Terminal" alt="Terminal" width="50" height="50"/>
   </a>
   <a href="https://github.com/pkhomych/PostgreSQL">
-    <img src="https://github.com/pkhomych/pkhomych/blob/master/images/PostgreSQL.png" title="PostgreSQL" alt="PostgreSQL" width="70" height="50"/>
+    <img src="https://github.com/pkhomych/pkhomych/blob/master/images/PostgreSQL.png" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>
   </a>
    <a href="">
     <img src="https://github.com/pkhomych/pkhomych/blob/master/images/DBeaver.png" title="DBeaver" alt="DBeaver" width="50" height="50"/>
