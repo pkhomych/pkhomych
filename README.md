@@ -55,8 +55,17 @@
   <a href="https://github.com/pkhomych/Terminal/blob/master/HW_1.md">
     <img src="https://github.com/pkhomych/pkhomych/blob/master/images/Terminal.png" title="Terminal" alt="Terminal" width="50" height="50"/>
   </a>
-  <a href="https://github.com/pkhomych/SQL">
-    <img src="https://github.com/pkhomych/pkhomych/blob/master/images/SQL.png" title="SQL" alt="SQL" width="50" height="50"/>
+  <a href="https://github.com/pkhomych/PostgreSQL">
+    <img src="https://github.com/pkhomych/pkhomych/blob/master/images/PostgreSQL.png" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>
+  </a>
+   <a href="">
+    <img src="https://github.com/pkhomych/pkhomych/blob/master/images/DBeaver.png" title="DBeaver" alt="DBeaver" width="50" height="50"/>
+  </a>
+   <a href="https://github.com/pkhomych/Microsoft-SQL-Server">
+    <img src="https://github.com/pkhomych/pkhomych/blob/master/images/Microsoft%20SQL%20Server.png" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="50" height="50"/>
+  </a>
+   <a href="">
+    <img src="https://github.com/pkhomych/pkhomych/blob/master/images/SQL%20MS.png" title="SQL MS" alt="SQL MS" width="50" height="50"/>
   </a>
   <a href="https://github.com/pkhomych/Postman">
     <img src="https://github.com/pkhomych/pkhomych/blob/master/images/Postman.png" title="Postman" alt="Postman" width="50" height="50"/>
