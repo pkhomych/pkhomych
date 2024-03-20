@@ -12,9 +12,9 @@
    <a href="mailto:khomich.pavlo@gmail.com">
     <img src="https://img.shields.io/badge/eMail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
-  <a href="https://drive.google.com/file/d/18bkztm6g4LqrHenzdt1iXpMNxVNsngIx/view?usp=sharing">
+<!--   <a href="https://drive.google.com/file/d/18bkztm6g4LqrHenzdt1iXpMNxVNsngIx/view?usp=sharing">
     <img src="https://img.shields.io/badge/CV-blue?style=for-the-badge&logo=CV&logoColor=white" alt="CV Badge"/>
-  </a>
+  </a> -->
 
 </div>
 <div id="badges" align="center">
